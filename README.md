@@ -1,2 +1,2 @@
-# microsoft-azure-localizando-servico-categoria
-Projeto feito durante Microsoft 50 Anos - Computação em Nuvem com Azure na Dio:  Microsoft Azure - Localizando Serviços por Categoria
+"Neste laboratório, explorei a categorização de serviços em uma plataforma moderna e prática, desenvolvendo uma compreensão mais aprofundada de como localizar e utilizar diferentes recursos para atender necessidades específicas. Aprimorei minhas habilidades em identificar ferramentas adequadas para cenários diversos, organizando informações de maneira clara e eficiente. Este projeto destaca a importância de categorizar serviços e analisar suas aplicações práticas, permitindo maior eficiência e agilidade na resolução de desafios técnicos."
+Espero que esse resumo reflita bem o que você deseja, Jair! Caso queira ajustar ou adicionar detalhes, é só me avisar. 🚀😊
